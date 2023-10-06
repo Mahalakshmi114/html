@@ -1,0 +1,9 @@
+<HEAD>
+<STYLE TYPE="text/css">
+.punk { color: lime; background: #ff80c0 }
+P.warning { font-weight: bolder; color: red; background: white }
+</STYLE>
+</HEAD>
+These classes could be referenced in HTML with the CLASS attribute:
+<H1 CLASS=punk>Proprietary Extensions</H1>
+<P CLASS=warning>warning message </P>
